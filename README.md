@@ -48,10 +48,10 @@ The project comes with a sample `VideoGames.csv` dataset. The `VideoGames.csv` d
 
 ### Sample Output
 
-![alt_text]{./BST_output.png}
+![alt_text](./BST_output.png)
 
 *Searching for best-selling game publishers per area*
 
-![alt_text]{./RBT_output2.png}
+![alt_text](./RBT_output2.png)
 
 *Data stored as a RBT*
